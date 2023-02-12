@@ -1,5 +1,5 @@
-                                                  Hi there👋, my name is Ahmed Mustufa,
-                                                 I am a passionate Mern Stack Developer. 
+                                    Hi there👋, my name is Ahmed Mustufa,
+                                    I am a passionate Mern Stack Developer. 
 
 - 🔭 I’m currently working on a project called 9Sol which provides web and mobile applications to clients!
 -  I ❤️ creating frontend with beautiful UI libraries like MaterialUI, Ant Design, TailwindCSS, Prime NG and Styled components!
