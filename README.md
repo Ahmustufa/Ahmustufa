@@ -24,8 +24,15 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmustufa&layout=compact)](https://github.com/Ahmustufa/github-readme-stats) -->
 
 <picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=Ahmustufa&show_icons=true&theme=transparent" media="(prefers-color-scheme: dark)"/>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Ahmustufa&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Ahmustufa&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmustufa&show_icons=true" alt="Ahmustufa" />
 </picture>
-<!-- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmustufa&show_icons=true&theme=transparent) -->
 
 <p ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmustufa&" alt="Ahmustufa" /></p>
