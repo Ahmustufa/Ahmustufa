@@ -23,6 +23,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmustufa&layout=compact)](https://github.com/Ahmustufa/github-readme-stats) -->
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmustufa&show_icons=true&theme=transparent)
+<picture>
+<source srcset="https://github-readme-stats.vercel.app/api?username=Ahmustufa&show_icons=true&theme=transparent" media="(prefers-color-scheme: dark)"/>
+</picture>
+<!-- ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmustufa&show_icons=true&theme=transparent) -->
 
 <p ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmustufa&" alt="Ahmustufa" /></p>
