@@ -1,11 +1,11 @@
  <h1 align="center">Hi there👋, my name is Ahmed Mustufa,</h1>
  <h3 align="center">I am a passionate Mern Stack Developer.</h3> 
     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmustufa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmustufa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmustufa&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmustufa" /> </p>
 
 <p>Working on React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Mongoose, TypeScript and React Native technologies for Web and Mobile Applications. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript and Typescript, ReactJS, NextJS and React Native workflows. </p>
 
-- 🔭 I’m currently working on a project called 9Sol which provides web and mobile applications to clients!
+- 🔭 I’m currently working on a project called Birth-Predictor which provides the estimated percentage(%) of the patient of having a child through each treatment cycle!
 - I ❤️ creating frontend with beautiful UI libraries like MaterialUI, Ant Design, TailwindCSS, Prime NG and Styled components!
 - 🌱 I’m invested in learning DevOps, Linux environment and Ngnix!
 - 👯 I’m looking to collaborate with other developers to make contributions to existing open source projects
