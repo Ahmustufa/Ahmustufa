@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate with other developers to make contributions to existing open source projects
 - 💬 Ask me anything about Front end or Back end web based technologies.
 - 📫 How to reach me: You can reach me at ahmustufamalik@gmail.com.
-- ⚡ Fun fact: I like to cook and ❤️ to play ♟️
+- ⚡ Fun fact: I like to workout and play ♟️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
